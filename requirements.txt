@@ -1,5 +1,3 @@
 pandas
 streamlit
-os
-datetime
 tkinter
