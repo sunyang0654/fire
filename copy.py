@@ -2,8 +2,7 @@ import pandas as pd
 import streamlit as st
 import os
 from datetime import datetime
-from tkinter import Tk
-from tkinter.filedialog import askopenfilename
+
 
 st.set_page_config(layout="wide")
 
